@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    @extends('freshHome');
                 </div>
             </div>
         </div>
