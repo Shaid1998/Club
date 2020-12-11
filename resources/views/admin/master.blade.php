@@ -206,13 +206,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="pages/tables/simple.html" class="nav-link">
+                <a href="member.blade.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Member</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="pages/tables/data.html" class="nav-link">
+                <a href="admin.eqipment" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Equipment</p>
                 </a>

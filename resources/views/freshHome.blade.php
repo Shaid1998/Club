@@ -13,44 +13,6 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
 	</head>
 	<body>
-		<!------------------------------------------------------slider--------------------------------------------------------->
-		<div id="slider">
-			<div id="headerslider" class="carousel slide" data-ride="carousel">
-			  <ol class="carousel-indicators">
-				<li data-target="#headerslider" data-slide-to="0" class="active"></li>
-				<li data-target="#headerslider" data-slide-to="1"></li>
-				<li data-target="#headerslider" data-slide-to="2"></li>
-			  </ol>
-			  <div class="carousel-inner">
-				<div class="carousel-item active">
-				  <img src="img/a1.jpg" class="d-block " />
-				  <div class="carousel-caption" >
-				  <h5> Maclaren 620R </h5>
-				  </div>
-				</div>
-				<div class="carousel-item">
-				  <img src="img/386effbd-lamborghini-veneno-.jpg" class="d-block " />
-				  <div class="carousel-caption" >
-				  <h5> Lamborgini Veneno </h5>
-				  </div>
-				</div>
-				<div class="carousel-item">
-				  <img src="img/1200px-Bugatti_Divo,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0029).jpg" class="d-block " />
-				  <div class="carousel-caption" >
-				  <h5> Bugatti Divo </h5>
-				  </div>
-				</div>
-			  </div>
-			  <a class="carousel-control-prev" href="#headerslider" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			  </a>
-			  <a class="carousel-control-next" href="#headerslider" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			  </a>
-			</div>
-		</div>
 		<!------------------------------------------------------About--------------------------------------------------------->
 		<section id="about">
 			<div class="container">
